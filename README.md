@@ -30,7 +30,7 @@ Productid, name, company, price, manufactured_date, expired_Date
 
 
 
-MySQL Midterm:
+MySQL Midterm: 20220628113051_midterm.sql
 
 Q.1 Design database for online movie ticket booking. For that, write queries for creating all
 tables with constraints for online movie ticket booking system. Mention all fields with its
